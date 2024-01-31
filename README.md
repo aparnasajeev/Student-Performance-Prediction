@@ -1,9 +1,9 @@
 ## Student Performance Prediction Project
 
-Overview
+Overview: 
 Welcome to the Student Performance Prediction project! This end-to-end machine learning project is designed to predict student performance. We've covered the entire process, from Exploratory Data Analysis (EDA) and feature engineering to hyperparameter tuning for various models.
 
-Project Structure
+Project Structure: 
 The project is organized in a modular structure to enhance readability and maintainability. 
 The brief overview of the key components is as follws:
 
